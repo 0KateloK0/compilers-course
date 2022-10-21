@@ -1,14 +1,13 @@
-//
-// Created by katelok on 21.10.22.
-//
-
 #ifndef COMPILER_LEXER_H
 #define COMPILER_LEXER_H
 
-
-class lexer {
+namespace lex {
+class Lexer {
+public:
+	
+private:
 
 };
+}// namespace lex
 
-
-#endif //COMPILER_LEXER_H
+#endif//COMPILER_LEXER_H
